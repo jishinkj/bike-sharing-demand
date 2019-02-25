@@ -1,6 +1,6 @@
 # Bike Sharing Demand
 
-This is a repository for this [Kaggle competition](https://www.kaggle.com/c/bike-sharing-demand). 
+Repository for this [Kaggle competition](https://www.kaggle.com/c/bike-sharing-demand). 
 
 We are provided hourly bike rental data spanning two years. For this competition, the training set is comprised of the first 19 days of each month, while the test set is the 20th to the end of the month. We must predict the total count of bikes rented during each hour covered by the test set, using only information available prior to the rental period.
 
